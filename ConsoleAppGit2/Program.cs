@@ -11,6 +11,7 @@ namespace ConsoleAppGit2
         static void Main(string[] args)
         {
             Console.WriteLine("666");
+            Console.WriteLine("6884");
             int a = 3;
             int b = 5;
             Console.WriteLine(a / 5);
