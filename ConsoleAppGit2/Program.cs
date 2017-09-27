@@ -13,6 +13,7 @@ namespace ConsoleAppGit2
             Console.WriteLine("666");
             Console.ReadLine();
             Console.WriteLine("777");
+            Console.WriteLine("888");
         }
     }
 }
